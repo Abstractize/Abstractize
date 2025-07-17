@@ -11,6 +11,7 @@ I'm a Computer & Software Engineer from Costa Rica who loves building scalable s
 - 🎧 Musician as a hobby — fascinated by **audio-related technology**, both in **software** and **hardware**
 - 🛠 Skilled in **.NET**, **Angular**, **Python**, **Kubernetes**, and **Azure**
 - 🌎 Languages: 🇪🇸 Spanish (Native), 🇬🇧 English (B2), 🇯🇵 Japanese (N5)
+- 🎮 Enthusiast of **game development** and interactive experiences
 
 ---
 
@@ -40,6 +41,16 @@ A modular and production-ready TODO platform showcasing enterprise design patter
 ### 🥁 [`drum-midi-remapper`](https://github.com/Abstractize/drum-midi-remapper)  
 Personal utility to remap MIDI drum notes to match custom kit mappings — built to improve my production workflow with DAWs.
 
+### 🎮 [`Ausländer (Game Jam 2023)`](https://github.com/Abstractize/GameJam-2023)  
+A game developed in 48 hours during **Global Game Jam 2023**, created in a multidisciplinary team. It features cooperative mechanics and exploration in an alien world.
+
+- Built with **Unity** and **C#**  
+- Focused on gameplay programming and mechanic design  
+- Reinforced my passion for **game development**, especially in collaborative and fast-paced environments
+
+> 🎯 *I’m passionate about game development as a creative way to solve technical and narrative challenges simultaneously.*
+
+#### Check the game at: [Ausländer Global Game Jam](https://v3.globalgamejam.org/2023/games/ausländer-8)
 ---
 
 ## 🌐 Links
