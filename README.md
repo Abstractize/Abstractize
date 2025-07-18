@@ -28,15 +28,45 @@ I'm a Computer & Software Engineer from Costa Rica who loves building scalable s
 
 ## 🚀 Featured Projects
 
-### 🧱 TODO Microservice System  
-A modular and production-ready TODO platform showcasing enterprise design patterns in .NET and Angular.
+### [🧱 TODO Microservice System](https://github.com/Abstractize/todo.app)  
+A modular, production-ready TODO platform built as a monorepo, demonstrating enterprise design patterns in .NET and Angular.
 
-- [`todo.common`](https://github.com/Abstractize/todo.common) – Shared library for JWT, exceptions, identity, and configuration  
-- [`todo.auth-service`](https://github.com/Abstractize/todo.auth-service) – JWT authentication with refresh token flow  
-- [`todo.task-service`](https://github.com/Abstractize/todo.task-service) – Task management microservice with identity enforcement  
-- [`todo.gateway`](https://github.com/Abstractize/todo.gateway) – API Gateway for request routing and validation  
-- [`todo.angular-client`](https://github.com/Abstractize/todo.angular-client) – Frontend SPA written in Angular  
-- [`todo.infra`](https://github.com/Abstractize/todo.infra) – Docker-based infrastructure to run the entire system locally
+**Repository:** [`todo.app`](https://github.com/Abstractize/todo.app)  
+All services and infrastructure are managed in a single repository using Git submodules, referencing each individual service repo for streamlined development, testing, and deployment.
+
+#### Included Services & Descriptions
+
+- [**`common`** 🧰](https://github.com/Abstractize/todo.common)  
+    Shared library for JWT handling, exception management, identity, and configuration utilities used across all services.  
+    Technologies: .NET, ASP.NET, Entity Framework
+
+- [**`auth-service`** 🔐](https://github.com/Abstractize/todo.auth-service)  
+    Handles user authentication, including JWT issuance and refresh token flow for secure access management.  
+    Technologies: .NET, ASP.NET, Entity Framework
+
+- [**`task-service`** ✅](https://github.com/Abstractize/todo.task-service)  
+    Manages task creation, updates, and deletion with strict identity enforcement and business logic.  
+    Technologies: .NET, ASP.NET, Entity Framework
+
+- [**`gateway`** 🚪](https://github.com/Abstractize/todo.gateway)  
+    API Gateway responsible for routing requests, aggregating responses, and validating incoming traffic.  
+    Technologies: .NET Core, YARP.
+
+- [**`angular-client`** 🌐](https://github.com/Abstractize/todo.angular-client)  
+    Single Page Application frontend built with Angular, providing a modern user interface for the platform.  
+    Technologies: Angular, TypeScript.
+
+- [**`infra`** ⚙️](https://github.com/Abstractize/todo.infra)  
+    Docker-based infrastructure scripts, Helm charts, and deployment configuration to run the entire system locally or in production.  
+    Technologies: Docker, Helm, Bash scripts.
+
+- [**`recommendation`** 🤖](https://github.com/Abstractize/todo.recommendations)  
+    Microservice providing personalized task recommendations based on user data to boost productivity.  
+    Technologies: Python, FastAPI.
+
+- [**`analytics`** 📊](https://github.com/Abstractize/todo.analytics)  
+    Microservice for event tracking and analytics data processing, enabling actionable insights.  
+    Technologies: Java, SpringBoot
 
 ### 🥁 [`drum-midi-remapper`](https://github.com/Abstractize/drum-midi-remapper)  
 Personal utility to remap MIDI drum notes to match custom kit mappings — built to improve my production workflow with DAWs.
