@@ -71,6 +71,14 @@ A production-ready **microservice system** built as a monorepo, using:
 
 ---
 
+### [`portafolio`](https://github.com/Abstractize/portafolio)  
+🌐 A **React + Vite + TypeScript** portfolio site to showcase skills, experience, and projects.  
+Deployed with **GitHub Pages** and built as a **reusable template** powered by a data-driven JSON structure.
+
+[🔗 Live Demo](https://abstractize.github.io/portafolio/)
+
+---
+
 ### [`drum-midi-remapper`](https://github.com/Abstractize/drum-midi-remapper)  
 🎵 Utility for remapping MIDI drum notes — made to streamline music production with custom kits.
 
@@ -85,10 +93,17 @@ Explore an alien world through cooperative mechanics and narrative-driven gamepl
   <img src="https://github.com/Abstractize/GameJam-2023/raw/master/Images/screenshot_4.jpg" height="140"/>
 </p>
 
-> Developed in a multidisciplinary team during Global Game Jam 2023.  
-[Play on Global Game Jam site](https://v3.globalgamejam.org/2023/games/ausländer-8)
+> Created collaboratively by a multidisciplinary team for Global Game Jam 2023.  
+[View the project on the Global Game Jam site (not currently deployed due to lack of maintenance)](https://v3.globalgamejam.org/2023/games/ausländer-8)
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abstractize&layout=donut" alt="Top Languages (Public Only)" height="180" style="margin-right: 16px;"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abstractize&theme=default" alt="Profile Details" height="180"/>
+</p>
 
 ## 🌐 Connect with Me
 
